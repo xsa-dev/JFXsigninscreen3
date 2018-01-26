@@ -1,0 +1,6 @@
+#rootPane {
+    -fx-background-image: url("background.png");
+}
+#btn :hover{
+    -fx-background-color: #ffbd01;
+}
